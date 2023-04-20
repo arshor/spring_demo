@@ -1,7 +1,7 @@
 package com.example.demo;
 
-import com.example.demo.service.LoggedUserManagementService;
-import com.example.demo.service.LoginCountService;
+import com.example.demo.services.LoggedUserManagementService;
+import com.example.demo.services.LoginCountService;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;

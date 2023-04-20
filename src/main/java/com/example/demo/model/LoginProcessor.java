@@ -1,7 +1,7 @@
 package com.example.demo.model;
 
-import com.example.demo.service.LoggedUserManagementService;
-import com.example.demo.service.LoginCountService;
+import com.example.demo.services.LoggedUserManagementService;
+import com.example.demo.services.LoginCountService;
 import org.springframework.stereotype.Component;
 import org.springframework.web.context.annotation.RequestScope;
 
